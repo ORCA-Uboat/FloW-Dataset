@@ -10,4 +10,4 @@ By publishing Flow, it is hoped that more attention from research communities co
 
 ## [Dataset Download](https://www.orca-tech.cn/datasets.html)
 
-To learn more details about FloW and download the dataset with the developed tools, please visit our [website](https://www.orca-tech.cn/datasets.html). Let’s work on floating waste detection together!
+To learn more details about FloW and download the dataset with the development tools, please visit our [website](https://www.orca-tech.cn/datasets.html). Let’s work on floating waste detection together!
