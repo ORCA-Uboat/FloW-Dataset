@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Marine wastes are severely threatening marine animals and their habitat, also causing an impact on human life through toxic substances transportation and accumulation. To prevent the wastes especially the plastic debris from getting into the ocean, it is essential to detect and clean the floating wastes in inland waters efficiently like in rivers, lakes, and canals.
+Marine wastes are severely threatening marine animals and their habitat, also causing an impact on human life through toxic substances transportation and accumulation. To prevent the wastes especially the plastic trash from getting into the ocean, it is essential to detect and clean the floating wastes in inland waters efficiently like in rivers, lakes, and canals.
 
 FloW is the first dataset for floating waste detection in inland waters. It contains a vision-based sub-dataset, FloW-Img, and a multimodal dataset, FloW-RI which contains the spatial and temporal calibrated image and millimeter-wave radar data. 
 
