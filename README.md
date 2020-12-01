@@ -8,6 +8,11 @@
 </div>
 </a>
 
+<a href="https://www.orca-tech.cn/datasets.html">
+<div align=center>Click here or the image above to download the dataset!
+</div>
+</a>
+
 ## Introduction
 
 Marine wastes are severely threatening marine animals and their habitat, also causing an impact on human life through toxic substances transportation and accumulation. To prevent the wastes especially the plastic trash from getting into the ocean, it is essential to detect and clean the floating wastes in inland waters efficiently like in rivers, lakes, and canals.
