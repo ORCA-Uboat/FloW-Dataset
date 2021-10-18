@@ -24,4 +24,17 @@ By publishing Flow, it is hoped that more attention from research communities co
 
 ## [Dataset Download](http://www.orca-tech.cn/datasets)
 
-The dataset has been published now. To learn more details about FloW and download the dataset with the development tools, you can visit our [website](http://www.orca-tech.cn/datasets). Let’s work on floating waste detection together!
+Our paper has been accepted by ICCV2021. To know more details about FloW dataset, our paper can be found **[here](https://openaccess.thecvf.com/content/ICCV2021/html/Cheng_FloW_A_Dataset_and_Benchmark_for_Floating_Waste_Detection_in_ICCV_2021_paper.html)**. If you find our dataset useful for your research, you can cite:
+
+```
+@InProceedings{Cheng_2021_ICCV, 
+  author = {Cheng, Yuwei and Zhu, Jiannan and Jiang, Mengxin and Fu, Jie and Pang, Changsong and Wang, Peidong and Sankaran, Kris and Onabola, Olawale and Liu, Yimin and Liu, Dianbo and Bengio, Yoshua}, 
+  title = {FloW: A Dataset and Benchmark for Floating Waste Detection in Inland Waters}, 
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}, 
+  month = {October}, 
+  year = {2021}, 
+  pages = {10953-10962}
+}
+```
+
+The dataset has been published now. To learn more details about FloW and download the dataset with the development tools, you can visit our **[website](http://www.orca-tech.cn/datasets)**. Let’s work on floating waste detection together!
