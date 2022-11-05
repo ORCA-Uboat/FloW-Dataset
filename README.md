@@ -37,4 +37,4 @@ Our paper has been accepted by ICCV2021. To know more details about FloW dataset
 }
 ```
 
-The dataset has been published now. To learn more details about FloW and download the dataset with the development tools, you can visit our **[website](http://www.orca-tech.cn/datasets)**. Let’s work on floating waste detection together!
+The dataset has been published now. To learn more details about FloW and download the dataset with the development tools, you can visit our **website [(Chinese](http://www.orca-tech.cn/datasets) or [English)](https://world.orca-tech.cn/)**, and apply for downloading the dataset in "Customer Support -> Dataset -> FloW". Let’s work on floating waste detection together!
